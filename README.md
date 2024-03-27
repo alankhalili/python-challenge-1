@@ -17,6 +17,7 @@ Functionality include:
 Requires Python 10 to use the match/case function.
 
 ##Usage:
+
 n/a
 
 ##Configuration:
