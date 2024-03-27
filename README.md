@@ -5,6 +5,7 @@ Desiging an interactive ordering system from a food truck menu, using skills I'v
 Builidng off previous code, we've used exisitng skills to build a food truck model.
 
 Functionality include:
+
     - Having the custromer select a category menu and a item menu, both of whch are in a dictionary and a nested dictionary.
     - Track the item and quanity of food item selected
     - Print a detailed invoice with a total
@@ -17,6 +18,7 @@ n/a
 
 ##Configuration:
 To modify the categories or menu items, the "menu" dictionary will need ot be updated.  Information in this dictionary inclue:
+
     - A food item, whch can be a string or a dictoinary within this dictionary
     - The food item's category and
     - The food item's price
